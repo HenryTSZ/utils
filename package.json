@@ -11,7 +11,7 @@
     "clipboard": "^2.0.8",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.5",
-    "less-loader": "^6.0.0",
+    "lib-flexible": "^0.3.2",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
@@ -26,7 +26,10 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^6.2.2",
     "less": "^4.1.1",
+    "less-loader": "^6.0.0",
+    "postcss-plugin-px2rem": "^0.8.1",
     "prettier": "^2.2.1",
+    "px2rem-loader": "^0.1.9",
     "vue-template-compiler": "^2.6.11"
   }
 }
